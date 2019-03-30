@@ -1,0 +1,1 @@
+include ':app', ':lifesoftsqlite01', ':listexam01', ':filereadwrite'
